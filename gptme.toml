@@ -1,0 +1,4 @@
+[user]
+name = "Sid"
+about = "Frontend dev, works on an AI agent observability platform. Stack: FastAPI, React, Postgres."
+response_preference = "Be concise. Don't explain basic concepts."
